@@ -1,0 +1,27 @@
+body{
+	text-align:center;
+}
+
+#head{
+	text-align:center;
+	padding-bottom:2%;
+}
+
+#container{
+	position:absolute;
+	text-align:left;
+	left:30%;
+	font-weight:bold;
+
+
+}
+
+.info{
+	font-weight:normal;
+}
+
+
+#photo{
+	margin-left:20%;
+	margin-bottom: 15%
+}

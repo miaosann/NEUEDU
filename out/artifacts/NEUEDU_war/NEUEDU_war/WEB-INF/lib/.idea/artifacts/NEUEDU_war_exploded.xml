@@ -1,0 +1,47 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="NEUEDU:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/NEUEDU_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="NEUEDU/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NEUEDU" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jsp-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/poi-3.17.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/junrar-0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/apache-ant-zip.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/curvesapi-1.04.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/java-unrar-0.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/poi-ooxml-3.17.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/standard-1.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/xmlbeans-2.6.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/poi-examples-3.17.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/poi-excelant-3.17.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/poi-scratchpad-3.17.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/apache-commons-logging.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/poi-ooxml-schemas-3.17.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-collections4-4.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.40.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jsp-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/stax-api-1.0.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/xmlbeans-2.3.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/poi-3.9-20121203.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-3.9-20121203.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections4-4.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/poi-examples-3.9-20121203.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/poi-excelant-3.9-20121203.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/poi-scratchpad-3.9-20121203.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-schemas-3.9-20121203.jar" />
+          <element id="dir-copy" path="$PROJECT_DIR$" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,26 @@
+body{
+	position:relative;
+	text-align:center;
+
+}
+
+#main{
+	margin:1%;
+	margin-top:10%;
+	margin-left:35%;
+	padding:1%;
+	width:30%;
+
+
+
+}
+
+#submit{
+
+
+}
+
+#title{
+	font-size:30px;
+	margin-bottom:20px;
+}

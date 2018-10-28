@@ -1,0 +1,27 @@
+body{
+	text-align:center;
+}
+
+#title{
+	margin:30px;
+}
+
+.container{
+
+
+	width:50%;
+	left:25%;
+	
+
+	background-color:rgb(237,247,255);
+}
+
+#type{
+	background-color:rgb(203,223,248);
+
+}
+
+#btSearch{
+	width:100%;
+}
+
